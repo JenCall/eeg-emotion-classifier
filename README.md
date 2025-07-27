@@ -35,7 +35,7 @@ This project uses the **EEG Brainwave Emotion Dataset** available on [Kaggle](ht
 
 The dataset consists of EEG recordings from two individuals (1 male, 1 female) collected using a Muse headband, which records from TP9, AF7, AF8, and TP10 placements using dry electrodes. Data was collected for 3 minutes per emotional state (positive, neutral, negative), with an additional 6 minutes of resting (neutral) baseline. The EEG signals were preprocessed using a statistical extraction strategy described in the linked publications.
 
-If you use this data in academic or applied work, please cite the following sources:
+Citation sources as suggested:
 
 - [Mental Emotional Sentiment Classification with an EEG-based Brain-machine Interface](https://www.researchgate.net/publication/329403546_Mental_Emotional_Sentiment_Classification_with_an_EEG-based_Brain-machine_Interface)
 - [A Deep Evolutionary Approach to Bioinspired Classifier Optimisation for Brain-Machine Interaction](https://www.researchgate.net/publication/335173767_A_Deep_Evolutionary_Approach_to_Bioinspired_Classifier_Optimisation_for_Brain-Machine_Interaction)
