@@ -26,7 +26,7 @@ This notebook analyzes EEG data to classify emotional states using machine learn
 ## Structure
 
 - `/notebooks` – Colab/Jupyter notebooks
-- `/data` – Link or instructions for dataset (do **not** upload raw EEG files)
+- `/data` – Not uploaded here - to find on Kaggle s below
 - `/results` – Charts, model outputs, performance summaries
 
 ## Dataset Description and Citation
